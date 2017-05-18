@@ -2,8 +2,6 @@
 <div class="note">
         <div class="post">
             <div class="article">
-                <h1 class="title">
-                    在github上建立gh-pages分支</h1>
                 <!-- 文章内容 -->
                 <div class="show-content">
                     <h1>
